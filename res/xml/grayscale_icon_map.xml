@@ -462,6 +462,9 @@
         drawable="@drawable/themed_icon_gallery_go"
         package="com.google.android.apps.photosgo" />
     <icon
+	drawable="@drawable/themed_icon_gallery_go"
+	package="com.android.gallery3d" />
+    <icon
         drawable="@drawable/themed_icon_picpay"
         package="com.picpay" />
     <icon
@@ -541,7 +544,10 @@
         package="mendeleev.redlime" />
     <icon
         drawable="@drawable/themed_icon_retro_music"
-        package="code.name.monkey.retromusic" />
+        package="io.github.muntashirakon.music" />
+    <icon
+	drawable="@drawable/themed_icon_retro_music"
+	package="code.name.monkey.retromusic" />
     <icon
         drawable="@drawable/themed_icon_retro_music"
         package="io.github.muntashirakon.Music.debug" />
